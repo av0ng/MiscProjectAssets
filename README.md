@@ -1,5 +1,4 @@
 # Credits for Assets
-- car.png/car-reversed.png: https://freesvg.org/img/Car_Green_Front.png
 - cobblestone.png: https://mineblocks.com/1/wiki/index?title=File:Cobblestone.png
 - fly.gif: https://starbounder.org/mediawiki/images/a/a2/Giant_Fly.gif
 - frog.gif: https://www.blankspacep.com/
