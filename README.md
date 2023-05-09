@@ -1,10 +1,11 @@
 # Credits for Assets
-- cobblestone.png: https://mineblocks.com/1/wiki/index?title=File:Cobblestone.png
-- fly.gif: https://starbounder.org/mediawiki/images/a/a2/Giant_Fly.gif
-- frog.gif: https://www.blankspacep.com/
-- grass.png: https://tutorial-vg.blogspot.com/2020/03/how-to-make-pixel-art-grass.html
-- plank.png: https://openclipart.org/image/2400px/svg_to_png/218084/Log_Side.png
-- river.png: https://www.reddit.com/r/PixelArt/comments/91bpxj/ccbasic_water_texture_32x32/
-- target.png: https://morgsartdesign.artstation.com/projects/0Xq1QY
-- turtle.png/turtle-reversed.png: https://www.shutterstock.com/image-vector/pixel-art-8bit-cartoon-turtle-icon-1819767353
-- /assets/background-music.mp3: https://youtu.be/rbUUO_npsoQ
+- Cobblestone texture: https://mineblocks.com/1/wiki/index?title=File:Cobblestone.png
+- Grass texture: https://tutorial-vg.blogspot.com/2020/03/how-to-make-pixel-art-grass.html
+- River texture: https://www.reddit.com/r/PixelArt/comments/91bpxj/ccbasic_water_texture_32x32/
+- Sand dune texture: https://morgsartdesign.artstation.com/projects/0Xq1QY
+- Fly sprite: https://starbounder.org/mediawiki/images/a/a2/Giant_Fly.gif
+- Frog sprite: https://www.blankspacep.com/
+- Plank sprite: https://openclipart.org/image/2400px/svg_to_png/218084/Log_Side.png
+- Turtle sprite: https://www.shutterstock.com/image-vector/pixel-art-8bit-cartoon-turtle-icon-1819767353
+- Background music: https://youtu.be/rbUUO_npsoQ
+- Jumping sound effect: https://youtu.be/Y8bSsRVr3Yg
