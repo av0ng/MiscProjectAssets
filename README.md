@@ -7,3 +7,4 @@
 - river.png: https://www.reddit.com/r/PixelArt/comments/91bpxj/ccbasic_water_texture_32x32/
 - target.png: https://morgsartdesign.artstation.com/projects/0Xq1QY
 - turtle.png/turtle-reversed.png: https://www.shutterstock.com/image-vector/pixel-art-8bit-cartoon-turtle-icon-1819767353
+- /assets/background-music.mp3: https://youtu.be/rbUUO_npsoQ
